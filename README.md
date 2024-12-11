@@ -6,10 +6,10 @@ Business Intelligence Portfolio Project: How well did I run my business when I w
 
 Main
 
-- [ ] Transform handwritten information collected while working self-employed into data tables
-- [ ] Create relational database to efficiently query information for quick insights
-- [ ] Develop KPI and other interesting visuals using Microsoft Power BI
-- [ ] Document business insights including visuals to assess the health of my business
+- [x] Transform handwritten information collected while working self-employed into data tables
+- [x] Create relational database to efficiently query information for quick insights
+- [ ] Develop interesting visuals using Microsoft Power BI based on KPIs and other interesting metrics
+- [ ] Document business insights including visuals to assess the health of business
 - [ ] Include recommendations for improvements based on data analysis
 
 Optional
