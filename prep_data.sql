@@ -148,6 +148,16 @@ SELECT *
 FROM transactions;
 
 -- VERIFY/VALIDATE DATA --
+
+-- Edit "Private_Client" field for accuracy.
+UPDATE clients
+SET Private_Client = IF(
+Business = 1, 1, Private_Client);
+
+UPDATE clients
+SET Private_Client = 0 
+WHERE ID = 53 OR ID = 54 OR ID = 66;
+
 -- Clients
 -- Contacts
 -- Transactions
@@ -156,4 +166,4 @@ FROM transactions;
 
 -- Client Lifetime
 
--- Service ID
+-- Service ID: to assign numerical value to categorical data
