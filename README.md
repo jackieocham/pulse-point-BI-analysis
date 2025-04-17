@@ -2,6 +2,14 @@
 
 This Power BI project analyzed over six years of operational and financial data from my sole proprietorship as a personal trainer. Using Excel, SQL, and Power BI, I built a dashboard showcasing key metrics such as customer demographics, service type revenue share, and client loyalty patterns. The analysis uncovered powerful insights: repeat customers accounted for over 96% of total revenue, and referrals made up 83%. These findings could be used to shape retention, referral programs, and high-impact customer engagement strategies.
 
+Highlights
+
+- Repeat clients = 96.3% of revenue 😮
+- Referrals = 83% of revenue 📈
+- One MVP client = 21.5% of revenue 🎯
+- Automated data processing with SQL + visualization with Power BI ✔️
+- Demonstrated strategic thinking (not just technical skills) 🧠
+
 ## Project Objectives
 
 Main
