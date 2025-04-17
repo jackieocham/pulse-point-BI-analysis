@@ -1,6 +1,6 @@
 # Pulse Point BI Analysis
 
-Business Intelligence Data Analysis Portfolio Project: If I were to re-start my personal training business, what changes would I make and why? This project aims to not only estimate the answer to that question, but to solidify technical, analytical and communication skills I aspire to use in my career. Certain data in this analysis is hypothetical as it is based on a combination of records I could find and my memories to fill in the gaps. I'd love to continue using this project as a foundation for skills training.
+This Power BI project analyzed over six years of operational and financial data from my sole proprietorship as a personal trainer. Using Excel, SQL, and Power BI, I built a dashboard showcasing key metrics such as customer demographics, service type revenue share, and client loyalty patterns. The analysis uncovered powerful insights: repeat customers accounted for over 96% of total revenue, and referrals made up 83%. These findings could be used to shape retention, referral programs, and high-impact customer engagement strategies.
 
 ## Project Objectives
 
