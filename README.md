@@ -37,3 +37,5 @@ Business Recommendations
 - Continue networking with other fitness professionals who specialize in different areas to increase referrals
 - Target people over 50 in marketing efforts for private clients
 - Continue leading group fitness class with intention of converting class participants to private clients
+
+Thanks for taking a look at my project!
